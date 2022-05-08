@@ -1,0 +1,10 @@
+com\youtube\clone\youtubeclone\model\VideoStatus.class
+com\youtube\clone\youtubeclone\service\FileService.class
+com\youtube\clone\youtubeclone\model\Comment.class
+com\youtube\clone\youtubeclone\repository\VideoRepository.class
+com\youtube\clone\youtubeclone\service\S3Service.class
+com\youtube\clone\youtubeclone\model\User.class
+com\youtube\clone\youtubeclone\YoutubeCloneApplication.class
+com\youtube\clone\youtubeclone\model\Video.class
+com\youtube\clone\youtubeclone\service\VideoService.class
+com\youtube\clone\youtubeclone\contoller\VideoController.class
